@@ -15,7 +15,7 @@
 *ROW_METADATA(MLIVAIN        20240528)      num_bin_4 pCodeRetourBin
 *ROW_METADATA(ADELIA         20241015)      alpha(500) buffer
 *ROW_METADATA(ADELIA         20241015)      
-*ROW_METADATA(ADELIA         20241016)      * ligne ajoutée 4   
+*ROW_METADATA(ADELIA         20241016)      * ligne ajoutée 6      
 *ROW_METADATA(MLIVAIN        20240527)   FIN_DECL
 *ROW_METADATA(MLIVAIN        20240527)   DEBUT_INIT
 *ROW_METADATA(MLIVAIN        20240527)      initialiser fen_lstcli
