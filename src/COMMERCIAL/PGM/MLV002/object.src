@@ -1,7 +1,8 @@
 *ROW_METADATA(MLIVAIN                )DEBUT_PGM
 *ROW_METADATA(MLIVAIN        20240527)   DEBUT_DECL
 *ROW_METADATA(MLIVAIN        20240527)      
-*ROW_METADATA(MLIVAIN        20240527)      alpha(6) pcod_client
+*ROW_METADATA(ADELIA         20250311)      alpha(6) pcod_client
+*ROW_METADATA(ADELIA         20250311)      * test
 *ROW_METADATA(MLIVAIN        20240527)      alpha(2) pcod_retour
 *ROW_METADATA(MLIVAIN        20240527)      alpha(2) pcod_action
 *ROW_METADATA(MLIVAIN        20240527)      *Initialisation de la liste pour drop list reglement
